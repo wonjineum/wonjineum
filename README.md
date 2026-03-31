@@ -1,4 +1,4 @@
-## Hi! I'm Wonjin 👋
+## Hi! I'm Wonjin 🤸‍♀️
 
 <!--
 **wonjineum/wonjineum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
