@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I currently study Computer Science at Cornell University 🐻 <br>
-- I am a full stack developer with a deep interest in machine learning 🖥 <br>
-- I love using technology to solve real life problems and create positive impact! ⭐ <br>
+- I currently study Computer Science at Cornell University <br>
+- I am a full stack developer with a deep interest in machine learning <br>
+- I love using technology to solve real life problems and create positive impact! <br>
