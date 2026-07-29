@@ -1,4 +1,4 @@
-## Hi! I'm Wonjin 🤸‍♀️
+## Hi! I'm Wonjin 👋
 
 <!--
 **wonjineum/wonjineum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - I currently study Computer Science at Cornell University <br>
 - I am a full stack developer with a deep interest in machine learning <br>
 - I love using technology to solve real life problems and create positive impact! <br>
+- Check out my personal website here: https://wonjineum.vercel.app/ <br>
